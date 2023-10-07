@@ -1,3 +1,13 @@
+import Header from "componets/Header";
+import Footer from "componets/Footer";
+import PostForm from "componets/PostForm";
+
 export default function PostEdit(){
-    return <h1>Post Edit Page</h1>
+    return (
+        <>
+        <Header />
+        <PostForm />
+        </>
+    )
 }
+
