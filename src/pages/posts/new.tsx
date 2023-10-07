@@ -1,5 +1,5 @@
-import Header from "../../componets/Header";
-import Footer from "../../componets/Footer";
+import Header from "componets/Header";
+import Footer from "componets/Footer";
 
 export default function PostNew(){
     return (
